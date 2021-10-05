@@ -1,7 +1,7 @@
 # Stock Profit & Loss Calculator, Made with JavaScript, HTML and CSS. ❤️
 
 - It is developed using JavaScript, HTML, CSS.
-- [Live Demo](https://stock-profit-loss-cal.netlify.app/)
+- [Live Demo](https://mark-14-stock-profit-loss.netlify.app/)
 - DOM Elements are accessed using DOM methods like querySelector, getElementById
 
 #### Features
